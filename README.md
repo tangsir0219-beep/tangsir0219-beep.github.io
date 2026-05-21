@@ -3,7 +3,8 @@
 
 # _Tang Yali_
 > _Praeceptor Emeritus_<br />
-> Payap University, International College < International Bussiness Management >
+> Payap University, International College ; International Bussiness Management 
+
 > LinkedIn: https://www.linkedin.com/in/freya0906 >
 
 > Computer Solutions Developer with decades of experience in Data Science and Big Data Analytics, Natural language Processing, Document Publishing Systems, 
