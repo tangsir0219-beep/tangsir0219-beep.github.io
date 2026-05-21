@@ -3,8 +3,8 @@
 
 # _Tang Yali_
 > _Praeceptor Emeritus_<br />
-> Payap University, Department of Computer Science<br />
-> Amphur Muang, Chiang Mai 50000, Thailand<br />
+> Payap University, International College < International Bussiness Management >
+> LinkedIn: https://www.linkedin.com/in/freya0906 >
 
 > Computer Solutions Developer with decades of experience in Data Science and Big Data Analytics, Natural language Processing, Document Publishing Systems, 
 and Web Community Development as well as mutagenic and carcinogenic activities of anthelmintics
