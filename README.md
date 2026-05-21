@@ -2,7 +2,7 @@
 <img src="http://tangsir0219-beep.github.io/zhaopian.png" alt="RPB Photo" align="right" width="30%"/>
 
 # _Tang Yali_
-> _Praeceptor Emeritus_<br />
+> _PERSONAL RESUME_<br />
 > Payap University, International College ; International Bussiness Management
 
 > LinkedIn: https://www.linkedin.com/in/freya0906>
