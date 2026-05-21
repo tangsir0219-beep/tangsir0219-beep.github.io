@@ -9,9 +9,6 @@
 
 > LinkedIn: https://www.linkedin.com/in/freya0906>
 
-> Computer Solutions Developer with decades of experience in Data Science and Big Data Analytics, Natural language Processing, Document Publishing Systems, 
-and Web Community Development as well as mutagenic and carcinogenic activities of anthelmintics
-
 # Education
 * 8/2024-5/2026	      **Payap University International College**
 Major:International Business Management
@@ -28,24 +25,14 @@ Major:Business Administration
 3. Join the school's business development department, serve as admissions assistant, assist teachers in recruiting students .
 4. Served as a human resources specialistin an education consulting company to recruit outstanding talents for the company to create better benefits.
 
-# Interests
-* Applied machine learning, data science, modeling and forecasting to assist decision making
-* Natural language processing to automate prepublication editing support
-* Web and online community development and e-business
-* Blended and online education for higher education and livelong learning
-* Bible study and its life applications
+# Awards and Honors
 
-# Project experience with Languages
-* Computer programming: Fortran 4, 6809 Assembler, C, MS BASIC, Forth, Z80 Assembler, Pascal, Lisp, C++, AWK, SNOBOL, APL, troff, SPITBOL, Perl, SmallTalk, Icon, Fortran 77, TeX, Metafont, XLISP, Visual Basic, SQL, Python, LaTeX, VBA, Ruby, Java, PHP, Ruby on Rails, R, JavaScript, Angular JS, Node JS, NoSQL, Bender, Julia
-* Human: English, Thai, French, German
-* OS Command shells: CP/M, UNIX, MSDOS, MS Windows, OsX, Linux, KSH, BASH, SSH, Ardunio, Android
-* Version control: RCS, CVS, Subversion, Bazaar, GIT
-* Open standards: HTML, CSS, XML, RSS, GPX, Unicode, ISO9001, ISO29110
+* 2024 Outstanding Graduates of Sichuan Province
+* 2022-2023 National Scholarship for Undergraduate Students
+* 2023 National University Elite Challenge "Zhongtu Kexin Cup" Global Brand Planning Competition China Regional Selection "First Prize"
+* 2023 Sichuan Province "Xue Chuang Cup" University Student Comprehensive Simulation Competition Third Prize Won the "Excellence Award" in the 2nd Sichuan
+* Province Chinese Vocational Education Innovation and Entrepreneurship Competition
+* 2022 "Changxiang Cup" National Digital Business Skills Competition-Enterprise Digital Management Sandbox Competition "Third Prize"The 6th Sichuan University * Student Alumni Cup Marketing Planning Competition won the third prize
 
-# Contact Info
-* [Web Page](https://rbatzing.github.io)
-* [LinkedIn](https://www.linkedin.com/in/robert-batzinger)
-* [Twitter](https://twitter.com/rbatz)
-* [Google Scholar](https://scholar.google.com/citations?user=LYSacdYAAAAJ&hl=en)
-* [Research Gate](https://www.researchgate.net/profile/Robert-Batzinger)
+ger)
 
