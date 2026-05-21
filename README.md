@@ -31,11 +31,12 @@ Major:Business Administration
 # Awards and Honors
 
 | Year | Name of Award |
-| ------------------| ----------------------|
+| :------------------: | :----------------------|
 | 2024 |Outstanding Graduates of Sichuan Province|
 |2022-2023| National Scholarship for Undergraduate Student|
 |2023 |National University Elite Challenge "Zhongtu Kexin Cup" Global Brand Planning Competition China Regional Selection "First Prize"|
 |2023 | Sichuan Province "Xue Chuang Cup" University Student Comprehensive Simulation Competition Third Prize Won the "Excellence Award" in the 2nd Sichuan Province Chinese Vocational Education Innovation and Entrepreneurship Competition|
 |2022 |"Changxiang Cup" National Digital Business Skills Competition-Enterprise Digital Management Sandbox Competition "Third Prize"The 6th Sichuan University Student Alumni Cup Marketing Planning Competition won the third prize|
+\
 
 
