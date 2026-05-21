@@ -15,21 +15,12 @@ Major:International Business Management
 * 9/2021-6/2024           **Sichuan International Biaobang Vocational College**
 School of Management and Digital Economy
 Major:Business Administration
-# Experience
-* Summer Intern - New York State Rabies Screening Laboratory
-* Undergraduate Research Opportunity Intern - Environmental Health Sciences Center, Massachusetts Institute of Technology
-* Urban Vehicle Design Competition - Team communications and logistics officer, Massachusetts Institute of Technology
-* Research Assistant - Wellcome Laboratory, Johns Hopkins University 
-* Post Doctoral Fellow - McArdle Laboratory, University of Wisconsin at Madison
-* Project Head - Faculty of Pharmacy, Payap University
-* Acting Dean - Faculty of Science, Payap University
-* Software Development Lead - Computer-Assisted Text Processing Center, Thailand Bible Society
-* Director - United Bible Society Asia-Pacific Regional Computer-Assisted Text Processing Center
-* Office Manager - Martin Kehoe Law Office - Guilderland, NY
-* Informatics Lab Manager - Indiana University - South Bend
-* Computer Science Instructor - Payap University
-* IT Director - Payap University
-* Praceptor Emeritus - Payap University
+# Extracurricular Experience
+**9/2021-6/2024**
+1.Join the National Defense Society, serve as the vice president of the National Defense Society, and be responsible for the club's courses and activities.
+2.Join the campus emergency team, serve as a team leader, be responsible for campus security, and participate in the military training instructorof the university freshmen as an military training instructor.
+3.Join the school's business development department, serve as admissions assistant, assist teachers in recruiting students .
+4.Served as a human resources specialistin an education consulting company to recruit outstanding talents for the company to create better benefits.
 
 # Interests
 * Applied machine learning, data science, modeling and forecasting to assist decision making
