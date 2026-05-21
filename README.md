@@ -10,10 +10,10 @@
 and Web Community Development as well as mutagenic and carcinogenic activities of anthelmintics
 
 # Education
-* 8/2024-5/2026	       Payap University
+* 8/2024-5/2026	      **Payap University**
 International academy
 Major:International Business Management
-* 9/2021-6/2024           Sichuan International Biaobang Vocational College
+* 9/2021-6/2024           **Sichuan International Biaobang Vocational College**
 School of Management and Digital Economy
 Major:Business Administration
 # Experience
