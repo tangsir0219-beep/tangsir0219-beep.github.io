@@ -27,9 +27,9 @@ Major:Business Administration
 
 * **5/2025-8/2025**
 
-> Internship at Host Company/Organization:HI-P(SHANGHAI)HOUSING APPLIANCE CO.,LTD
-> Job Position: Administrative Clerk.
-> Utilized email writing, report writing, and presentation skills to communicate with coworkers and managers. Planned and managed time effectively for office work, earning consistent praise from supervisors during the period.
+> Internship at Host Company/Organization:HI-P(SHANGHAI)HOUSING APPLIANCE CO.,LTD<br/>
+> Job Position: Administrative Clerk.<br/>
+> Utilized email writing, report writing, and presentation skills to communicate with coworkers and managers. Planned and managed time effectively for office work, earning consistent praise from supervisors during the period.<br/>
 
 # Awards and Honors
 
