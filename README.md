@@ -1,8 +1,7 @@
 
 <img src="http://tangsir0219-beep.github.io/zhaopian.png" alt="RPB Photo" align="right" width="30%"/>
-
-# _Tang Yali<唐雅丽>_
-> _PERSONAL RESUME_<br />
+## **PERSONAL RESUME**
+# _Tang Yali唐雅丽_
 > Payap University, International College ; International Bussiness Management
 
 > LinkedIn: https://www.linkedin.com/in/freya0906>
