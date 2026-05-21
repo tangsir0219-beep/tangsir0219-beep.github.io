@@ -1,5 +1,3 @@
-# tangsir0219-beep.github.io
-## personal website
 
 <img src="http://rbatzing.github.io/img/bob5.png" alt="RPB Photo" align="right" width="30%"/>
 
@@ -12,11 +10,12 @@
 and Web Community Development as well as mutagenic and carcinogenic activities of anthelmintics
 
 # Education
-* SB Chemistry - Massachusetts Institute of Technology
-* PhD Pathobiology - Johns Hopkins University
-* NIH Post Doctoral Fellow - University of Wisconsin at Madison
-* MS Applied Mathematics and Computer Science - Indiana University - South Bend
-
+* 2024.8~present		       Payap University
+International academy
+Major:International Business Management
+* 2021.9~2024.6            Sichuan International Biaobang Vocational College
+School of Management and Digital Economy
+Major:Business Administration
 # Experience
 * Summer Intern - New York State Rabies Screening Laboratory
 * Undergraduate Research Opportunity Intern - Environmental Health Sciences Center, Massachusetts Institute of Technology
