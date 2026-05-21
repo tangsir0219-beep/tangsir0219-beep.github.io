@@ -25,9 +25,9 @@ Major:Business Administration
 3. Join the school's business development department, serve as admissions assistant, assist teachers in recruiting students .
 4. Served as a human resources specialistin an education consulting company to recruit outstanding talents for the company to create better benefits.
 * **5/2025-8/2025**
-  Internship at Host Company/Organization:HI-P(SHANGHAI)HOUSING APPLIANCE CO.,LTD
-  Job Position: Administrative Clerk.
-  Utilized email writing, report writing, and presentation skills to communicate with coworkers and managers. Planned and managed time effectively for office work, earning consistent praise from supervisors during the period.
+* Internship at Host Company/Organization:HI-P(SHANGHAI)HOUSING APPLIANCE CO.,LTD
+* Job Position: Administrative Clerk.
+* Utilized email writing, report writing, and presentation skills to communicate with coworkers and managers. Planned and managed time effectively for office work, earning consistent praise from supervisors during the period.
 # Awards and Honors
 
 | Year | Name of Award |
