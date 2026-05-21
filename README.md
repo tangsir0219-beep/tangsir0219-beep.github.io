@@ -19,7 +19,7 @@ Major:Business Administration
 # Extracurricular Experience
 
 * **9/2021-6/2024**
-* 
+
 1. Join the National Defense Society, serve as the vice president of the National Defense Society, and be responsible for the club's courses and activities.
 2. Join the campus emergency team, serve as a team leader, be responsible for campus security, and participate in the military training instructorof the university freshmen as an military training instructor.
 3. Join the school's business development department, serve as admissions assistant, assist teachers in recruiting students .
