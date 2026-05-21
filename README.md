@@ -31,8 +31,7 @@ Major:Business Administration
 * 2022-2023 National Scholarship for Undergraduate Students
 * 2023 National University Elite Challenge "Zhongtu Kexin Cup" Global Brand Planning Competition China Regional Selection "First Prize"
 * 2023 Sichuan Province "Xue Chuang Cup" University Student Comprehensive Simulation Competition Third Prize Won the "Excellence Award" in the 2nd Sichuan
-* Province Chinese Vocational Education Innovation and Entrepreneurship Competition
-* 2022 "Changxiang Cup" National Digital Business Skills Competition-Enterprise Digital Management Sandbox Competition "Third Prize"The 6th Sichuan University * Student Alumni Cup Marketing Planning Competition won the third prize
+  Province Chinese Vocational Education Innovation and Entrepreneurship Competition
+* 2022 "Changxiang Cup" National Digital Business Skills Competition-Enterprise Digital Management Sandbox Competition "Third Prize"The 6th Sichuan University  Student Alumni Cup Marketing Planning Competition won the third prize
 
-ger)
 
